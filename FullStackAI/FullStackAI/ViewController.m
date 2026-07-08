@@ -19,4 +19,8 @@
 }
 
 
+- (void)testModify {
+    NSLog(@"测试更正上一次提交");
+}
+
 @end
